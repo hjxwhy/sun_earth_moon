@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hjx/Documents/test_tf/src/cmake-build-debug/devel/setup.sh
