@@ -1,8 +1,0 @@
-prefix=/home/hjx/Documents/test_tf/src/cmake-build-debug/devel
-
-Name: sun_earth_moon
-Description: Description of sun_earth_moon
-Version: 0.0.0
-Cflags: -I/home/hjx/Documents/test_tf/src/sun_earth_moon/include
-Libs: -L${prefix}/lib 
-Requires: 
