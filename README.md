@@ -9,3 +9,6 @@ This is an assignment in our laboratory，I think it's funny, so i publish in gi
 
 # Result
 ![avatar](D:\pictures/sun_earth_moon.png)
+
+# 操作步骤
+新建一个工作空间，把文件```clone```进去，```catkin_make```，然后```roslaunch sun_earth_moon sem_tf.launch```即可
