@@ -8,7 +8,7 @@ This is an assignment in our laboratory，I think it's funny, so i publish in gi
 地球绕着太阳转，太阳绕着地球转，地球又要有自己的自转，自转轴要是倾斜的
 
 # Result
-![avatar](D:\pictures/sun_earth_moon.png)
+![avatar](https://github.com/hjxwhy/sun_earth_moon/blob/master/sun_earth_moon/images/sun_earth_moon.png)
 
 # 操作步骤
 新建一个工作空间，把文件```clone```进去，```catkin_make```，然后```roslaunch sun_earth_moon sem_tf.launch```即可
