@@ -71,13 +71,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da1f098-4db0-4515-9588-99afbebe3396" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun_earth_moon/include/TrinaryStarSystemBroadcaster.h" beforeDir="false" afterPath="$PROJECT_DIR$/sun_earth_moon/include/TrinaryStarSystemBroadcaster.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun_earth_moon/src/final.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun_earth_moon/src/new.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sun_earth_moon/src/sem_tf_broadcaster.cpp" beforeDir="false" />
-    </list>
+    <list default="true" id="5da1f098-4db0-4515-9588-99afbebe3396" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -499,7 +493,7 @@
       <workItem from="1596010687293" duration="15148000" />
       <workItem from="1596106351434" duration="8364000" />
       <workItem from="1596160093478" duration="116000" />
-      <workItem from="1596160260434" duration="139000" />
+      <workItem from="1596160260434" duration="582000" />
     </task>
     <servers />
   </component>
