@@ -71,7 +71,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5da1f098-4db0-4515-9588-99afbebe3396" name="Default Changelist" comment="" />
+    <list default="true" id="5da1f098-4db0-4515-9588-99afbebe3396" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +97,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test/test_kalman/kalman-cpp/CMakeLists.txt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -493,7 +495,7 @@
       <workItem from="1596010687293" duration="15148000" />
       <workItem from="1596106351434" duration="8364000" />
       <workItem from="1596160093478" duration="116000" />
-      <workItem from="1596160260434" duration="582000" />
+      <workItem from="1596160260434" duration="755000" />
     </task>
     <servers />
   </component>
@@ -501,6 +503,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="779" y="248" width="424" height="482" key="FileChooserDialogImpl" timestamp="1596195875674">
+      <screen x="65" y="24" width="1855" height="958" />
+    </state>
+    <state x="779" y="248" width="424" height="482" key="FileChooserDialogImpl/65.24.1855.958@65.24.1855.958" timestamp="1596195875674" />
     <state x="66" y="545" key="SettingsEditor" timestamp="1596011729252">
       <screen x="65" y="24" width="1015" height="1798" />
     </state>
